@@ -5,6 +5,8 @@ This repository contains a collection of Python scripts that demonstrate various
 
 Contents:
 
+- Employee Attendance Tracker.py: A system for tracking employee attendance, including login, logout, and 
+  attendance reports.
 - Library management system.py: Program to manage library operations like book issue, return, and inventory.
 - Anish store.py: A virtual store program to calculate total shopping costs.
 - Variables and Data Types.py: Examples of Python variables and data types.
