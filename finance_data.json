@@ -1,0 +1,1 @@
+{"payments": [{"mode": "income", "amount": 100000.0, "source": "salary"}, {"mode": "expenditure", "amount": 2000.0, "source": "bag"}], "bal": 98000.0}
