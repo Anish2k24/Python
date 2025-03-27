@@ -17,4 +17,9 @@ Contents:
 - Prince Inventory Management.py**: Inventory management program with pricing and quantity functionality.  
 - Tuple & Dictionary.py**: Operations on tuples and dictionaries.  
 - Personal Finance Manager.py**: A tool to help manage personal finances, track income and expenses, set budgets, and analyze savings patterns.  
+-Vehicle Detection System: Uses image processing and machine learning to detect vehicles in traffic images. Includes a dataset for evaluation.
 
+Future Improvements:
+- Expand the Vehicle Detection System to support real-time detection using OpenCV.
+- Enhance Library Management System with a GUI for better usability.
+- Improve Personal Finance Manager by integrating data visualization features.
