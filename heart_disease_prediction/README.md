@@ -6,7 +6,7 @@ This project is a machine learning-based diagnostic tool built to predict the li
 
 ## 📁 Dataset
 
-- **Dataset Name**: Cleveland Heart Disease Dataset  
+- **Dataset Name**: heart data  
 - **Source**: [Kaggle - Heart Disease UCI](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)  
 - **Format**: CSV (`heart.csv`)
 
