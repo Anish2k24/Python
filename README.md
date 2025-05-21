@@ -76,6 +76,6 @@ Feel free to explore, fork, and contribute! ⭐
 
 ## 📫 Let's Connect
 
-If you have feedback or ideas, feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or drop a message!
+If you have feedback or ideas, feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or drop a mail (dabboyanish69@gmail.com)!
 
 From passion to Python—this is just the beginning.🧠✨
