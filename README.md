@@ -53,9 +53,13 @@ Here are some of the key projects included in this repository:
 - **Vehicle Detection System**  
   Uses image processing and machine learning to detect vehicles in traffic images. Includes datasets and model evaluation.
 
-- **Heart Disease Prediction** 🫀 (NEW!)  
+- **Heart Disease Prediction** 🫀 
   A machine learning project using logistic regression to predict heart disease based on health parameters like age, cholesterol, and blood pressure. Includes data preprocessing, model training, and evaluation metrics.
 
+- **House Price Prediction Model** 🏠 (NEW!)  
+  A regression-based machine learning model that predicts house prices using features like area, number of bathrooms, garage size, and year built.  
+  It includes data preprocessing, feature selection, model training (Linear Regression), evaluation using MSE and R² score, and visualizations for prediction comparison and feature importance.  
+  Also includes functionality to predict custom input values and exports results and models using `joblib` and `pickle`.
 ---
 
 ## 🚀 Future Improvements
