@@ -43,5 +43,5 @@ The project explores and compares various regression models to identify the most
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-prediction-system.git
+   git clone https://github.com/Anish2k24/weather-prediction-system.git
    cd weather-prediction-system
